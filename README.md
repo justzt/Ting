@@ -5,7 +5,7 @@ Ting
 主要功能：收听公共频道，私人频道。下载当前收听的歌曲，封面，歌词。支持多媒体键操作。
 使用的open source：ASIHttpRequest，MASPreferences，NXJson，SPMediaKeyTap
 
-api是从百度听ios客户端抓取的，所有需要用到的api放在api.h中
+百度的api是从百度听ios客户端抓取的，所有需要用到的api放在api.h中
 
 百度账号登录的功能暂未实现，所以私人频道和红星频道没有实现。
 
