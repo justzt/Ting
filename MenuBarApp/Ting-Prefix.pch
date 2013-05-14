@@ -1,0 +1,9 @@
+//
+// Prefix header for all source files of the 'MenuBarApp' target in the 'MenuBarApp' project
+//
+
+#ifdef __OBJC__
+    #import <Cocoa/Cocoa.h>
+    #import "Utility/macro.h"
+    #import "Manager/UserNotiManager.h"
+#endif
