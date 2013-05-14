@@ -2,8 +2,10 @@ Ting
 ====
 
 百度听，mac版。
+
 主要功能：收听公共频道，私人频道。下载当前收听的歌曲，封面，歌词。支持多媒体键操作。
-使用的open source：ASIHttpRequest，MASPreferences，NXJson，SPMediaKeyTap
+
+使用的第三方open source：ASIHttpRequest，MASPreferences，NXJson，SPMediaKeyTap
 
 百度的api是从百度听ios客户端抓取的，所有需要用到的api放在api.h中
 
