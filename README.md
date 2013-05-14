@@ -4,8 +4,8 @@ Ting
 百度听，mac版。
 
 效果图片  
-![github](https://github.com/justzt/Ting/blob/master/test.png "github") 
-![github](https://github.com/justzt/Ting/blob/master/test.png "效果") 
+![github](http://github.com/justzt/Ting/blob/master/test.png "github") 
+
 
 主要功能：收听公共频道，音乐人频道。下载当前收听的歌曲，封面，歌词。支持多媒体键操作。
 
