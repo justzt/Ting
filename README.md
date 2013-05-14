@@ -2,8 +2,8 @@ Ting
 ====
 
 百度听，mac版。
-###只是显示图片  
-![github](http://github.com/unicorn.png "github") 
+效果图片  
+![效果图](https://github.com/justzt/Ting/blob/master/test.png "效果") 
 
 主要功能：收听公共频道，音乐人频道。下载当前收听的歌曲，封面，歌词。支持多媒体键操作。
 
